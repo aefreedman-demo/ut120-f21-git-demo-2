@@ -6,4 +6,5 @@ function myscript(){
  // now this line is mine
  // we are in conflict
  // this is war
+ // man i had to pull 3 times
 }
