@@ -1,5 +1,7 @@
 {
   "resources": [
+    {"id":{"name":"spr_phyrex","path":"sprites/spr_phyrex/spr_phyrex.yy",},"order":1,},
+    {"id":{"name":"obj_phyrex","path":"objects/obj_phyrex/obj_phyrex.yy",},"order":5,},
     {"id":{"name":"obj_apuya","path":"objects/obj_apuya/obj_apuya.yy",},"order":3,},
     {"id":{"name":"obj_sam","path":"objects/obj_sam/obj_sam.yy",},"order":4,},
     {"id":{"name":"obj_test","path":"objects/obj_test/obj_test.yy",},"order":0,},
