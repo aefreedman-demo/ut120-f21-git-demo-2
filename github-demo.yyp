@@ -1,5 +1,7 @@
 {
   "resources": [
+    {"id":{"name":"spr_phyrex","path":"sprites/spr_phyrex/spr_phyrex.yy",},"order":1,},
+    {"id":{"name":"obj_phyrex","path":"objects/obj_phyrex/obj_phyrex.yy",},"order":5,},
     {"id":{"name":"obj_apuya","path":"objects/obj_apuya/obj_apuya.yy",},"order":3,},
     {"id":{"name":"obj_sam","path":"objects/obj_sam/obj_sam.yy",},"order":4,},
     {"id":{"name":"obj_kenn","path":"objects/obj_kenn/obj_kenn.yy",},"order":5,},
@@ -57,7 +59,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.3.574",
+    "IDEVersion": "2.3.4.580",
   },
   "resourceVersion": "1.4",
   "name": "github-demo",

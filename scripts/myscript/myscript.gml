@@ -3,5 +3,8 @@
 function myscript(){
  // look its code haha code stuff wowo very fun
  // more code
- // wow even more code
+ // now this line is mine
+ // we are in conflict
+ // this is war
+ // man i had to pull 3 times
 }

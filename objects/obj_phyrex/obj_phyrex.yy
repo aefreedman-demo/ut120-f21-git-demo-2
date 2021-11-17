@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_phyrex",
+    "path": "sprites/spr_phyrex/spr_phyrex.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -18,16 +21,14 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [],
-  "properties": [
-    {"varType":0,"value":"hey y'all","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"message","tags":[],"resourceType":"GMObjectProperty",},
-  ],
+  "properties": [],
   "overriddenProperties": [],
   "parent": {
     "name": "Objects",
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_sam",
+  "name": "obj_phyrex",
   "tags": [],
   "resourceType": "GMObject",
 }
