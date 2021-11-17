@@ -2,6 +2,8 @@
   "resources": [
     {"id":{"name":"obj_apuya","path":"objects/obj_apuya/obj_apuya.yy",},"order":3,},
     {"id":{"name":"obj_sam","path":"objects/obj_sam/obj_sam.yy",},"order":4,},
+    {"id":{"name":"obj_kenn","path":"objects/obj_kenn/obj_kenn.yy",},"order":5,},
+    {"id":{"name":"spr_square","path":"sprites/spr_square/spr_square.yy",},"order":1,},
     {"id":{"name":"obj_test","path":"objects/obj_test/obj_test.yy",},"order":0,},
     {"id":{"name":"obj_aaron_thing","path":"objects/obj_aaron_thing/obj_aaron_thing.yy",},"order":1,},
     {"id":{"name":"obj_test2","path":"objects/obj_test2/obj_test2.yy",},"order":2,},
